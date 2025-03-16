@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Usman-PGMR&show_icons=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usman-PGMR)
+
+![GitHub Contributions](https://komarev.com/ghpvc/?username=Usman-PGMR)
+
 <!--
 **USMAN-PGMR/Usman-PGMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
