@@ -29,6 +29,10 @@ I'm a **MERN Stack Developer** passionate about **building scalable web applicat
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Usman-PGMR&theme=react-dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usman-PGMR)
+
+![GitHub Contributions](https://komarev.com/ghpvc/?username=Usman-PGMR)
+
 ---
 
 
